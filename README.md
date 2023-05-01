@@ -30,7 +30,7 @@ To run testing, use the terminal command line to execute the 'npm test' or 'npm 
 ![LOGO test 1](https://user-images.githubusercontent.com/122941616/235539549-d3651f10-d1a3-47f0-a88a-8683a042f384.png)
 ![LOGO test 2](https://user-images.githubusercontent.com/122941616/235539550-2c2caa58-2365-4ac2-a9fc-bad95bb63860.png)
 ![LOGO test 3](https://user-images.githubusercontent.com/122941616/235539551-f3c354c6-f098-4b1a-bc20-4534302cb579.png)
-![LOGO test final](https://user-images.githubusercontent.com/122941616/235539553-3c919679-48ac-4fbb-b8c4-91c695a7c77e.png)
+![LOGO test final](https://user-images.githubusercontent.com/122941616/235545134-bb7ba824-333a-477c-85c2-cd558e19cc06.png)
 
 ## Credits
 No group input was instructed for this challenge.
