@@ -3,6 +3,11 @@
 ## Description
 Task is to build a command line application that takes user input to select the color, text color and shape to generate a demo logo and save it as an .svg file.
 
+A walkthrough demo file: https://drive.google.com/file/d/1-sF-jre_KfXhySIAi8A-FV5X8fbq1Ro5/view
+
+Github repository: https://github.com/sjbossa/MOD10-OOP-SVG-LogoMaker
+
+
 ##Table of Contents
   1. [Installation](#installation)
   2. [Features](#features)
